@@ -39,6 +39,27 @@ which runs first. Every bundled script enforces this with a no-loss assertion:
 writes nothing. Do not weaken that assertion.
 
 
+**Commentaries without a sa bcad.** If the file is a commentary with no sa bcad
+(no TOC headings, no stated topical outline), segment by **points** (གནད་): each
+segment is one point the commentary makes. This overrides the sentence-count and
+syllable-cap granularity targets below, which are only a fallback.
+
+- **Do not split a paragraph that continues the same point.** Sentences that elaborate,
+  illustrate, or argue for one point stay together in one segment, however long. Start a
+  new segment only where the commentary moves to a new point: a new topic, a new
+  objection or its reply, a new item in an enumeration, or a shift from gloss to
+  scriptural support.
+- **Quotations in stanza (verse) form are always their own segments.** A quoted stanza
+  is never merged into the surrounding prose. Follow the quotation rules below: the
+  source attribution (`…ལས།`) on its own block above, the stanza as one block, and the
+  closing formula (`ཞེས་སོ། །`) on its own block below. Never merge two independent
+  stanzas.
+- When unsure whether two passages are one point or two, keep them together (over-long is
+  safer than a wrong cut). The whitespace-only integrity rule still applies.
+- In Phase 2 and Phase 3, give this rule to the LLM as the grouping criterion, and tell it
+  the file has no sa bcad. In Phase 1, expect to hand-merge the over-cut prose blocks the
+  scripts leave and to protect stanza quotations.
+
 **Language scope — Tibetan.** Every rule set below (terminal particles, shad and
 double-shad boundaries, syllable caps counted by tsheg, the objection/reply and
 enumeration markers, the verse-pāda detector) is specific to classical Tibetan.

@@ -199,6 +199,10 @@
   },
   "active": "c8dbb2245ac8e8ba",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/མཛོད་ཊཱིཀ་ཐར་ལམ་གསལ་བྱེད།.md",
     "0-INBOX/raw-data/ཆོས་མངོན་པའི་མཛོད་-ས་བཅད་དུམ་མཚམས།.md",
     "1-SOURCES/Commentaries/མཛོད་ཀྱི་འགྲེལ་པ་ཐུབ་བསྟན་ནོར་བུའི་གཏེར་མཛོད་དུས་གསུམ་རྒྱལ་བའི་བཞེད་དོན་ཀུན་གསལ།.md",
@@ -208,10 +212,6 @@
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.md",
     "1-SOURCES/Text/ཆོས་མངོན་པ་མཛོད།.md",
     "0-INBOX/temp/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "0-INBOX/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.md",
     "0-INBOX/temp/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.bypoint.tsv",
     "0-INBOX/temp/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.bypoint.md",
@@ -233,7 +233,6 @@
     "4-SYSTEM/Skills/source-property-extractor/SKILL.md",
     "4-SYSTEM/Skills/structural-outline-ingest/SKILL.md",
     "4-SYSTEM/Skills/section-summary-combined/SKILL.md",
-    "4-SYSTEM/Skills/section-summary-raw/SKILL.md",
-    "4-SYSTEM/Skills/root-text-frontmatter/SKILL.md"
+    "4-SYSTEM/Skills/section-summary-raw/SKILL.md"
   ]
 }

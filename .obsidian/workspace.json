@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/raw-data/ཆོས་མངོན་པའི་མཛོད་-ས་བཅད་དུམ་མཚམས།.md",
+                "file": "1-SOURCES/Text/ཆོས་མངོན་པ་མཛོད།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཆོས་མངོན་པའི་མཛོད་-ས་བཅད་དུམ་མཚམས།"
+              "title": "ཆོས་མངོན་པ་མཛོད།"
             }
           }
         ]
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,12 +200,12 @@
   },
   "active": "c8dbb2245ac8e8ba",
   "lastOpenFiles": [
+    "0-INBOX/raw-data/ཆོས་མངོན་པའི་མཛོད་-ས་བཅད་དུམ་མཚམས།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/མཛོད་ཊཱིཀ་ཐར་ལམ་གསལ་བྱེད།.md",
-    "0-INBOX/raw-data/ཆོས་མངོན་པའི་མཛོད་-ས་བཅད་དུམ་མཚམས།.md",
     "1-SOURCES/Commentaries/མཛོད་ཀྱི་འགྲེལ་པ་ཐུབ་བསྟན་ནོར་བུའི་གཏེར་མཛོད་དུས་གསུམ་རྒྱལ་བའི་བཞེད་དོན་ཀུན་གསལ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན། སྨད་ཆ།.md",

@@ -190,20 +190,20 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "obsidian-git:Open Git source control": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
   "active": "c8dbb2245ac8e8ba",
   "lastOpenFiles": [
-    "0-INBOX/raw-data/ཆོས་མངོན་པའི་མཛོད་-ས་བཅད་དུམ་མཚམས།.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
+    "0-INBOX/raw-data/ཆོས་མངོན་པའི་མཛོད་-ས་བཅད་དུམ་མཚམས།.md",
     "1-SOURCES/Commentaries/མཛོད་ཊཱིཀ་ཐར་ལམ་གསལ་བྱེད།.md",
     "1-SOURCES/Commentaries/མཛོད་ཀྱི་འགྲེལ་པ་ཐུབ་བསྟན་ནོར་བུའི་གཏེར་མཛོད་དུས་གསུམ་རྒྱལ་བའི་བཞེད་དོན་ཀུན་གསལ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",

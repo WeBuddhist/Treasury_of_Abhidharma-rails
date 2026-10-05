@@ -214,6 +214,10 @@
   },
   "active": "e5d6174a8687dfdd",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
     "1-SOURCES/Text/ཆོས་མངོན་པ་མཛོད།.md",
@@ -244,11 +248,6 @@
     "0-INBOX/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.tsv",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྟོད་ཆ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན། སྨད་ཆ།.md",
-    "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན། སྟོད་ཆ།.md",
-    "README.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions"
+    "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན། སྟོད་ཆ།.md"
   ]
 }

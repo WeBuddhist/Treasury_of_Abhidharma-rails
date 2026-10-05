@@ -1,7 +1,11 @@
 {
   "monospaceFontFamily": "Qomolangma-Uchen Sarchung",
   "textFontFamily": "Qomolangma-Uchen Sarchung",
+<<<<<<< HEAD
   "baseFontSize": 25,
+=======
+  "baseFontSize": 20,
+>>>>>>> origin/main
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Jomolhari"
 }

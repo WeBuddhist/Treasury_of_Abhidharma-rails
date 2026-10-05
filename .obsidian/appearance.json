@@ -1,5 +1,6 @@
 {
   "textFontFamily": "Microsoft Himalaya",
   "interfaceFontFamily": "",
-  "baseFontSize": 17
+  "baseFontSize": 27,
+  "baseFontSizeAction": true
 }

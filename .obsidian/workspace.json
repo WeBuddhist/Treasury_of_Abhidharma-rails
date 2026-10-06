@@ -11,14 +11,13 @@
             "id": "609534135703754e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 2.base",
+                "viewName": "View"
               },
-              "icon": "lucide-file",
-              "title": "ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།"
+              "icon": "lucide-table",
+              "title": "Untitled 2"
             }
           }
         ]
@@ -80,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 374.358097076416
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -158,31 +157,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Untitled 2.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
-            }
-          },
-          {
-            "id": "15014ceefa497d3c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,20 +189,22 @@
   },
   "active": "609534135703754e",
   "lastOpenFiles": [
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
+    "Untitled 1.base",
+    "Untitled 2.base",
+    "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",
+    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",
     "1-SOURCES/Commentaries/མངོན་པ་མཛོད་ཀྱི་འགྲེལ་པ་ཆོས་མངོན་རྒྱ་མཚོའི་སྙིང་པོ།.md",
     "1-SOURCES/Commentaries/མངོན་པ་མཛོད་ཀྱི་རྣམ་བཤད་ཐར་ལམ་གསལ་བྱེད།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་མཆན་འགྲེལ་དབྱིག་གཉེན་དགོངས་པ་གསལ་བའི་སྒྲོན་མེ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་བཤད་ཉེ་བར་མཁོ་བ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ།.md",
-    "gemini-scribe/Scheduled-Tasks/Runs",
-    "gemini-scribe/Skills",
-    "gemini-scribe/Background-Tasks",
-    "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",
-    "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ།.md",
-    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",
     "1-SOURCES/Commentaries/མཛོད་ཀྱི་འགྲེལ་པ་ཐུབ་བསྟན་ནོར་བུའི་གཏེར་མཛོད་དུས་གསུམ་རྒྱལ་བའི་བཞེད་དོན་ཀུན་གསལ།.md",
     "conflict-files-obsidian-git.md",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་པ་དོན་གསལ་ནོར་བུའི་འོད།རྩ་བ།.md",
@@ -232,7 +224,6 @@
     "4-SYSTEM/Skills/segment-commentary/SKILL.md",
     "0-INBOX/temp/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.segreport.tsv",
     "0-INBOX/temp/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.structural.md",
-    "0-INBOX/temp/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.tsv",
-    "0-INBOX/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.tsv"
+    "0-INBOX/temp/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.tsv"
   ]
 }

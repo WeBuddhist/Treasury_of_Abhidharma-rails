@@ -11,10 +11,14 @@
             "id": "e4229b99ce8ae98c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་མཆན་འགྲེལ་དབྱིག་གཉེན་དགོངས་པ་གསལ་བའི་སྒྲོན་མེ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ཆོས་མངོན་པའི་མཛོད་ཀྱི་མཆན་འགྲེལ་དབྱིག་གཉེན་དགོངས་པ་གསལ་བའི་སྒྲོན་མེ།"
             }
           }
         ]
@@ -76,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -195,9 +200,9 @@
   },
   "active": "e4229b99ce8ae98c",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་མཆན་འགྲེལ་དབྱིག་གཉེན་དགོངས་པ་གསལ་བའི་སྒྲོན་མེ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་བཤད་ཉེ་བར་མཁོ་བ།.md",
-    "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",

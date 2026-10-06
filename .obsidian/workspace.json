@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fde648f746d5cacd",
+        "id": "b0e54dc86f09723a",
         "type": "tabs",
         "children": [
           {
-            "id": "609534135703754e",
+            "id": "a39616a7af6db422",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 2.base",
-                "viewName": "View"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 2"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -157,7 +154,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -165,14 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "ba947a5c9a990978",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,14 +192,14 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "609534135703754e",
+  "active": "a39616a7af6db422",
   "lastOpenFiles": [
+    "Untitled 2.base",
     "gemini-scribe/Scheduled-Tasks/Runs",
     "gemini-scribe/Skills",
     "gemini-scribe/Background-Tasks",
     "gemini-scribe/Agent-Sessions",
     "Untitled 1.base",
-    "Untitled 2.base",
     "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",
     "1-SOURCES/Commentaries/མངོན་པ་མཛོད་ཀྱི་འགྲེལ་པ་ཆོས་མངོན་རྒྱ་མཚོའི་སྙིང་པོ།.md",

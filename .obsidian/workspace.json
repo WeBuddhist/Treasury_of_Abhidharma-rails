@@ -11,10 +11,14 @@
             "id": "05b65c306348412e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་བཤད་ཉེ་བར་མཁོ་བ།.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་བཤད་ཉེ་བར་མཁོ་བ།"
             }
           }
         ]
@@ -76,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.358097076416
+    "width": 374.358097076416,
+    "collapsed": true
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -154,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་བཤད་ཉེ་བར་མཁོ་བ།.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -161,13 +167,24 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "f355e3a0f137cf40",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +194,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "1010fdbaeceef62a",
+  "active": "05b65c306348412e",
   "lastOpenFiles": [
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་བཤད་ཉེ་བར་མཁོ་བ།.md",
     "Untitled 2.base",

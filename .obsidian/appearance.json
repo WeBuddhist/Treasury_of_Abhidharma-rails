@@ -1,4 +1,5 @@
 {
   "textFontFamily": "Monlam Uni OuChan1",
-  "baseFontSize": 26
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Academy Engraved LET"
 }

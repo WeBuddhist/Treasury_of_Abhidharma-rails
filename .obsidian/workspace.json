@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "212fc78a4268cc97",
+        "id": "79011601ff99928b",
         "type": "tabs",
         "children": [
           {
-            "id": "2ffdc6031e12354d",
+            "id": "6bd7e742d2d8df9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/མངོན་པ་མཛོད་ཀྱི་རྣམ་བཤད་ཐར་ལམ་གསལ་བྱེད།.md",
+                "file": "1-SOURCES/Commentaries/མཛོད་ཀྱི་འགྲེལ་པ་ཐུབ་བསྟན་ནོར་བུའི་གཏེར་མཛོད་དུས་གསུམ་རྒྱལ་བའི་བཞེད་དོན་ཀུན་གསལ།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "མངོན་པ་མཛོད་ཀྱི་རྣམ་བཤད་ཐར་ལམ་གསལ་བྱེད།"
+              "title": "མཛོད་ཀྱི་འགྲེལ་པ་ཐུབ་བསྟན་ནོར་བུའི་གཏེར་མཛོད་དུས་གསུམ་རྒྱལ་བའི་བཞེད་དོན་ཀུན་གསལ།"
             }
           }
         ]
@@ -197,8 +197,9 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "2ffdc6031e12354d",
+  "active": "6bd7e742d2d8df9d",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/མངོན་པ་མཛོད་ཀྱི་རྣམ་བཤད་ཐར་ལམ་གསལ་བྱེད།.md",
     "1-SOURCES/Commentaries/མངོན་པ་མཛོད་ཀྱི་འགྲེལ་པ་ཆོས་མངོན་རྒྱ་མཚོའི་སྙིང་པོ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་བཤད་ཉེ་བར་མཁོ་བ།.md",
@@ -211,7 +212,6 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "1-SOURCES/Commentaries/མཛོད་ཀྱི་འགྲེལ་པ་ཐུབ་བསྟན་ནོར་བུའི་གཏེར་མཛོད་དུས་གསུམ་རྒྱལ་བའི་བཞེད་དོན་ཀུན་གསལ།.md",
-    "1-SOURCES/Commentaries/མངོན་པ་མཛོད་ཀྱི་རྣམ་བཤད་ཐར་ལམ་གསལ་བྱེད།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་བཤད་ཉེ་བར་མཁོ་བ། (1).md",
     "1-SOURCES/Text/ཆོས་མངོན་པ་མཛོད།.md",
     "1-SOURCES/Commentaries/མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",

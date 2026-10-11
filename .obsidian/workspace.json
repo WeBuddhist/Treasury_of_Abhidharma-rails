@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ།.md",
+                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།_ལུང་ཚིག་གཏུབ་པ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ།"
+              "title": "ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།_ལུང་ཚིག་གཏུབ་པ"
             }
           }
         ]
@@ -199,8 +199,10 @@
   },
   "active": "6bd7e742d2d8df9d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
+    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།_ལུང་ཚིག་གཏུབ་པ.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ།.md",
+    "conflict-files-obsidian-git.md",
     "1-SOURCES/Commentaries/mdzod-bshad-pa-gtub-zin (3).md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ།.md",
     "1-SOURCES/Commentaries/mdzod-bshad-pa-gtub-zin (2).md",
@@ -208,7 +210,6 @@
     "1-SOURCES/Commentaries/mdzod-bshad-pa-gtub-zin.md",
     "1-SOURCES/Commentaries/མཛོད་ཀྱི་འགྲེལ་པ་ཐུབ་བསྟན་ནོར་བུའི་གཏེར་མཛོད་དུས་གསུམ་རྒྱལ་བའི་བཞེད་དོན་ཀུན་གསལ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་མཆན་འགྲེལ་དབྱིག་གཉེན་དགོངས་པ་གསལ་བའི་སྒྲོན་མེ།.md",
-    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
     "1-SOURCES/Commentaries/མངོན་པ་མཛོད་ཀྱི་རྣམ་བཤད་ཐར་ལམ་གསལ་བྱེད།.md",
     "1-SOURCES/Commentaries/མངོན་པ་མཛོད་ཀྱི་འགྲེལ་པ་ཆོས་མངོན་རྒྱ་མཚོའི་སྙིང་པོ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",
@@ -230,7 +231,6 @@
     "gemini-scribe/Agent-Sessions",
     "1-SOURCES/Commentaries/ཤེས་རབ་སྙིང་པོའི་འགྲེལ་པ་དོན་གསལ་ནོར་བུའི་འོད།རྩ་བ།.md",
     "0-INBOX/raw-data/ཆོས་མངོན་པའི་མཛོད་ས་བཅད་དུམ་མཚམས།.md",
-    "2026-10-02.md",
     "Untitled.base",
     "0-INBOX/temp/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.bypoint.tsv",
     "0-INBOX/temp/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.redo.tsv",

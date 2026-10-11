@@ -1,0 +1,121 @@
+# TOC tree vs. source QC report
+
+issues: 111
+
+## Issues
+
+- 1.1.1.2 གཉིས་པ་རྩོམ་པར་དམ་བཅའ་བ་: title attested in the source but not near pointer [[33]] (found near line 9) — possible cursor loss
+- 1.1.2.1.1.2 གཉིས་པ་གཞུང་དོན: title attested in the source but not near pointer [[43]] (found near line 35) — possible cursor loss
+- 1.2.2 གཉིས་པ་དེའི་རང་བཞིན་རྒྱས་པར་བཤད་པ: title attested in the source but not near pointer [[71]] (found near line 63) — possible cursor loss
+- 1.2.2.2.2.2.1.2 ཕུང་ཁམས་སྐྱེ་མཆེད་རྒྱས་པར་བཤད་པ: title attested in the source but not near pointer [[89]] (found near line 83) — possible cursor loss
+- 1.2.2.2.2.2.1.2.1.1.2.2.2.1 དང་པོ་སྤྱི་དོན: title attested in the source but not near pointer [[127]] (found near line 35) — possible cursor loss
+- 1.2.2.2.2.2.1.2.1.1.2.2.2.2.1 དང་པོ་སྤྱི་དོན: title attested in the source but not near pointer [[127]] (found near line 35) — possible cursor loss
+- 1.2.2.2.2.2.1.2.1.1.2.2.2.2.2.1 དང་པོ་སྤྱི་དོན: title attested in the source but not near pointer [[135]] (found near line 35) — possible cursor loss
+- 1.2.2.2.2.2.1.2.3.5 ལྔ་པ་སྤང་བྱ་ལ་ལྟོས་པའི་རབ་དབྱེ: title attested in the source but not near pointer [[173]] (found near line 224) — possible cursor loss
+- 1.2.2.2.2.2.1.2.3.7 བདུན་པ་རབ་དབྱེ་གཞན་བསྟན་པ: title attested in the source but not near pointer [[187]] (found near line 171) — possible cursor loss
+- 1.2.2.2.2.2.2.1.1.2 གཉིས་པ་གཞུང་དོན: title attested in the source but not near pointer [[208]] (found near line 35) — possible cursor loss
+- 1.2.2.2.2.2.2.1.2.3.1 དང་པོ་སྤྱི་དོན: title attested in the source but not near pointer [[220]] (found near line 35) — possible cursor loss
+- 1.2.2.2.2.2.2.2.2.2.2.3.9 དགུ་པ་དམིགས་བསལ་བཤད་པ: title attested in the source but not near pointer [[288]] (found near line 274) — possible cursor loss
+- 1.2.2.2.2.2.2.3.2.1 དང་པོ་སྤྱི་དོན: title attested in the source but not near pointer [[334]] (found near line 35) — possible cursor loss
+- 1.2.2.2.2.2.2.3.2.2 གཉིས་པ་གཞུང་དོན: title attested in the source but not near pointer [[342]] (found near line 35) — possible cursor loss
+- 1.2.2.2.2.2.2.3.3.1 དང་པོ་བསྟན་པ: title attested in the source but not near pointer [[344]] (found near line 11) — possible cursor loss
+- 1.2.2.2.2.2.3.1.3.1.2.5 ལྔ་པ་ཆོས་ཀྱི་ཁྱད་པར: title attested in the source but not near pointer [[409]] (found near line 111) — possible cursor loss
+- 1.2.2.2.2.2.3.1.3.1.2.5.3 གསུམ་པ་ཡུན་གྱི་ཁྱད་པར: title attested in the source but not near pointer [[417]] (found near line 409) — possible cursor loss
+- 1.2.2.2.2.2.3.1.3.1.2.5.4 བཞི་པ་ནུས་མཐུ: title attested in the source but not near pointer [[419]] (found near line 409) — possible cursor loss
+- 1.2.2.2.2.2.3.1.3.1.2.6 སྐྱེ་གནས་སུ་འཇུག་ཚུལ: title attested in the source but not near pointer [[427]] (found near line 395) — possible cursor loss
+- 1.2.2.2.2.2.3.1.3.1.2.8 ཁ་དོག་དང་ཉམས་སྣང་གི་ཁྱད་པར: title attested in the source but not near pointer [[431]] (found near line 395) — possible cursor loss
+- 1.2.2.2.2.2.3.1.3.3 གསུམ་པ་འགྲོ་ཚུལ: title attested in the source but not near pointer [[457]] (found near line 388) — possible cursor loss
+- 1.2.2.2.2.2.3.2.1.2.3.3 གསུམ་པ་འཛམ་བུ་གླིང་གི་ཁྱད་ཆོས་བྱེ་བྲག་ཏུ: title attested in the source but not near pointer [[493]] (found near line 487) — possible cursor loss
+- 1.2.2.2.2.2.4.2.1.2.3.2.3.1.1.2 གཉིས་པ་གང་ཐོབ་པ: title attested in the source but not near pointer [[759]] (found near line 722) — possible cursor loss
+- 1.2.2.2.2.2.5.3.3 གསུམ་པ་ངོ་བོ་ལ་ལྟོས་པའི་རབ་དབྱེ: title attested in the source but not near pointer [[884]] (found near line 171) — possible cursor loss
+- 1.2.2.2.2.2.5.6.2 གཉིས་པ་བསྟན་བཅོས་ལས་གསུངས་པའི་རྣམ་གྲངས་: title attested in the source but not near pointer [[924]] (found near line 916) — possible cursor loss
+- 1.2.2.2.2.2.5.6.2.1.3 ཕྲ་རྒྱུས: title attested in the source but not near pointer [[934]] (found near line 924) — possible cursor loss
+- 1.2.2.2.2.2.5.6.2.2 གཉིས་པ་མངོན་པ་གོང་མར་གསུངས་པ: title attested in the source but not near pointer [[936]] (found near line 924) — possible cursor loss
+- 1.2.2.2.2.2.6.4.2.1.6 དྲུག་པ་ཟག་བཅས་ཟག་མེད་ཀྱི་ཁྱད་པར: title attested in the source but not near pointer [[1044]] (found near line 171) — possible cursor loss
+- 1.2.2.2.2.2.6.4.2.1.7 བདུན་པ་ལམ་དང་སའི་ཁྱད་པར: title attested in the source but not near pointer [[1044]] (found near line 1036) — possible cursor loss
+- 1.2.2.2.2.2.8.1.5 ལྔ་པ་བྱེ་བྲག་ཏུ་བསམ་གཏན་གྱི་ཡན་ལག་གི་དབྱ: title attested in the source but not near pointer [[1138]] (found near line 1122) — possible cursor loss
+- 1.3.2 གཞུང་དོན: title attested in the source but not near pointer [[1213]] (found near line 35) — possible cursor loss
+- pointer [[9]] is shared by 3 nodes (1, 1.1, 1.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[11]] is shared by 4 nodes (1.1.1.1, 1.1.1.1.1, 1.1.1.1.2, 1.1.1.1.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[27]] is shared by 4 nodes (1.1.1.1.3.2, 1.1.1.1.3.2.1, 1.1.1.1.3.2.2, 1.1.1.1.3.2.2.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[29]] is shared by 4 nodes (1.1.1.1.3.2.2.2, 1.1.1.1.3.2.2.2.1, 1.1.1.1.3.2.2.2.2, 1.1.1.1.3.2.2.2.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[33]] is shared by 3 nodes (1.1.1.2, 1.1.2, 1.1.2.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[35]] is shared by 6 nodes (1.1.2.1.1, 1.1.2.1.1.1, 1.1.2.1.1.1.1, 1.1.2.1.1.1.2, 1.1.2.1.1.1.3, 1.1.2.1.1.1.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[45]] is shared by 5 nodes (1.1.2.1.2, 1.1.2.1.2.1, 1.1.2.1.2.1.1, 1.1.2.1.2.1.2, 1.1.2.1.2.1.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[59]] is shared by 5 nodes (1.1.3.1, 1.1.3.2, 1.1.3.3, 1.1.3.4, 1.1.3.5) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[71]] is shared by 4 nodes (1.2.2, 1.2.2.1, 1.2.2.1.1, 1.2.2.1.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[81]] is shared by 3 nodes (1.2.2.2.2, 1.2.2.2.2.1, 1.2.2.2.2.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[83]] is shared by 9 nodes (1.2.2.2.2.2.1, 1.2.2.2.2.2.1.1, 1.2.2.2.2.2.1.1.1, 1.2.2.2.2.2.1.1.1.1, 1.2.2.2.2.2.1.1.1.2, 1.2.2.2.2.2.1.1.1.3, 1.2.2.2.2.2.1.1.1.4, 1.2.2.2.2.2.1.1.1.5, 1.2.2.2.2.2.1.1.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[89]] is shared by 5 nodes (1.2.2.2.2.2.1.2, 1.2.2.2.2.2.1.2.1, 1.2.2.2.2.2.1.2.1.1, 1.2.2.2.2.2.1.2.1.1.1, 1.2.2.2.2.2.1.2.1.1.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[111]] is shared by 4 nodes (1.2.2.2.2.2.1.2.1.1.2.2.1.1, 1.2.2.2.2.2.1.2.1.1.2.2.1.2, 1.2.2.2.2.2.1.2.1.1.2.2.1.3, 1.2.2.2.2.2.1.2.1.1.2.2.1.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[127]] is shared by 4 nodes (1.2.2.2.2.2.1.2.1.1.2.2.2, 1.2.2.2.2.2.1.2.1.1.2.2.2.1, 1.2.2.2.2.2.1.2.1.1.2.2.2.2, 1.2.2.2.2.2.1.2.1.1.2.2.2.2.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[149]] is shared by 3 nodes (1.2.2.2.2.2.1.2.1.2.1, 1.2.2.2.2.2.1.2.1.2.2, 1.2.2.2.2.2.1.2.1.2.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[167]] is shared by 4 nodes (1.2.2.2.2.2.1.2.2.1.1, 1.2.2.2.2.2.1.2.2.1.2, 1.2.2.2.2.2.1.2.2.1.3, 1.2.2.2.2.2.1.2.2.1.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[171]] is shared by 3 nodes (1.2.2.2.2.2.1.2.3, 1.2.2.2.2.2.1.2.3.1, 1.2.2.2.2.2.1.2.3.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[173]] is shared by 3 nodes (1.2.2.2.2.2.1.2.3.3, 1.2.2.2.2.2.1.2.3.4, 1.2.2.2.2.2.1.2.3.5) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[190]] is shared by 3 nodes (1.2.2.2.2.2.2, 1.2.2.2.2.2.2.1, 1.2.2.2.2.2.2.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[192]] is shared by 6 nodes (1.2.2.2.2.2.2.1.1.1, 1.2.2.2.2.2.2.1.1.1.1, 1.2.2.2.2.2.2.1.1.1.2, 1.2.2.2.2.2.2.1.1.1.3, 1.2.2.2.2.2.2.1.1.1.4, 1.2.2.2.2.2.2.1.1.1.5) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[237]] is shared by 5 nodes (1.2.2.2.2.2.2.1.6, 1.2.2.2.2.2.2.1.6.1, 1.2.2.2.2.2.2.1.6.2, 1.2.2.2.2.2.2.1.6.2.1, 1.2.2.2.2.2.2.1.6.2.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[241]] is shared by 3 nodes (1.2.2.2.2.2.2.2.1.1, 1.2.2.2.2.2.2.2.1.1.1, 1.2.2.2.2.2.2.2.1.1.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[247]] is shared by 4 nodes (1.2.2.2.2.2.2.2.2, 1.2.2.2.2.2.2.2.2.1, 1.2.2.2.2.2.2.2.2.1.1, 1.2.2.2.2.2.2.2.2.1.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[270]] is shared by 3 nodes (1.2.2.2.2.2.2.2.2.2.2, 1.2.2.2.2.2.2.2.2.2.2.1, 1.2.2.2.2.2.2.2.2.2.2.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[272]] is shared by 13 nodes (1.2.2.2.2.2.2.2.2.2.2.2.1, 1.2.2.2.2.2.2.2.2.2.2.2.1.1, 1.2.2.2.2.2.2.2.2.2.2.2.1.1.1, 1.2.2.2.2.2.2.2.2.2.2.2.1.1.2, 1.2.2.2.2.2.2.2.2.2.2.2.1.1.3, 1.2.2.2.2.2.2.2.2.2.2.2.1.2, 1.2.2.2.2.2.2.2.2.2.2.2.2, 1.2.2.2.2.2.2.2.2.2.2.2.3, 1.2.2.2.2.2.2.2.2.2.2.2.4, 1.2.2.2.2.2.2.2.2.2.2.2.5, 1.2.2.2.2.2.2.2.2.2.2.2.6, 1.2.2.2.2.2.2.2.2.2.2.2.7, 1.2.2.2.2.2.2.2.2.2.2.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[274]] is shared by 8 nodes (1.2.2.2.2.2.2.2.2.2.2.3.1, 1.2.2.2.2.2.2.2.2.2.2.3.2, 1.2.2.2.2.2.2.2.2.2.2.3.3, 1.2.2.2.2.2.2.2.2.2.2.3.4, 1.2.2.2.2.2.2.2.2.2.2.3.5, 1.2.2.2.2.2.2.2.2.2.2.3.6, 1.2.2.2.2.2.2.2.2.2.2.3.7, 1.2.2.2.2.2.2.2.2.2.2.3.8) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[324]] is shared by 3 nodes (1.2.2.2.2.2.2.3, 1.2.2.2.2.2.2.3.1, 1.2.2.2.2.2.2.3.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[326]] is shared by 7 nodes (1.2.2.2.2.2.2.3.1.1.1, 1.2.2.2.2.2.2.3.1.1.2, 1.2.2.2.2.2.2.3.1.1.3, 1.2.2.2.2.2.2.3.1.1.4, 1.2.2.2.2.2.2.3.1.1.5, 1.2.2.2.2.2.2.3.1.1.6, 1.2.2.2.2.2.2.3.1.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[334]] is shared by 7 nodes (1.2.2.2.2.2.2.3.2, 1.2.2.2.2.2.2.3.2.1, 1.2.2.2.2.2.2.3.2.1.1, 1.2.2.2.2.2.2.3.2.1.2, 1.2.2.2.2.2.2.3.2.1.3, 1.2.2.2.2.2.2.3.2.1.4, 1.2.2.2.2.2.2.3.2.1.5) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[344]] is shared by 6 nodes (1.2.2.2.2.2.2.3.3, 1.2.2.2.2.2.2.3.3.1, 1.2.2.2.2.2.2.3.3.1.1, 1.2.2.2.2.2.2.3.3.1.2, 1.2.2.2.2.2.2.3.3.1.3, 1.2.2.2.2.2.2.3.3.1.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[353]] is shared by 4 nodes (1.2.2.2.2.2.2.3.3.2, 1.2.2.2.2.2.2.3.3.2.1, 1.2.2.2.2.2.2.3.3.2.1.1, 1.2.2.2.2.2.2.3.3.2.1.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[374]] is shared by 5 nodes (1.2.2.2.2.2.3, 1.2.2.2.2.2.3.1, 1.2.2.2.2.2.3.1.1, 1.2.2.2.2.2.3.1.1.1, 1.2.2.2.2.2.3.1.1.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[388]] is shared by 3 nodes (1.2.2.2.2.2.3.1.3, 1.2.2.2.2.2.3.1.3.1, 1.2.2.2.2.2.3.1.3.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[395]] is shared by 4 nodes (1.2.2.2.2.2.3.1.3.1.2, 1.2.2.2.2.2.3.1.3.1.2.1, 1.2.2.2.2.2.3.1.3.1.2.2, 1.2.2.2.2.2.3.1.3.1.2.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[401]] is shared by 3 nodes (1.2.2.2.2.2.3.1.3.1.2.3.2.1, 1.2.2.2.2.2.3.1.3.1.2.3.2.2, 1.2.2.2.2.2.3.1.3.1.2.3.2.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[409]] is shared by 3 nodes (1.2.2.2.2.2.3.1.3.1.2.4, 1.2.2.2.2.2.3.1.3.1.2.5, 1.2.2.2.2.2.3.1.3.1.2.5.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[419]] is shared by 5 nodes (1.2.2.2.2.2.3.1.3.1.2.5.4, 1.2.2.2.2.2.3.1.3.1.2.5.4.1, 1.2.2.2.2.2.3.1.3.1.2.5.4.2, 1.2.2.2.2.2.3.1.3.1.2.5.4.3, 1.2.2.2.2.2.3.1.3.1.2.5.4.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[475]] is shared by 4 nodes (1.2.2.2.2.2.3.2, 1.2.2.2.2.2.3.2.1, 1.2.2.2.2.2.3.2.1.1, 1.2.2.2.2.2.3.2.1.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[505]] is shared by 3 nodes (1.2.2.2.2.2.3.2.1.3, 1.2.2.2.2.2.3.2.1.3.1, 1.2.2.2.2.2.3.2.1.3.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[515]] is shared by 10 nodes (1.2.2.2.2.2.3.2.1.3.1.2, 1.2.2.2.2.2.3.2.1.3.1.2.1, 1.2.2.2.2.2.3.2.1.3.1.2.1.1, 1.2.2.2.2.2.3.2.1.3.1.2.1.1.1, 1.2.2.2.2.2.3.2.1.3.1.2.1.1.1.1, 1.2.2.2.2.2.3.2.1.3.1.2.1.1.1.1.1, 1.2.2.2.2.2.3.2.1.3.1.2.1.1.1.1.1.1, 1.2.2.2.2.2.3.2.1.3.1.2.1.1.1.1.1.2, 1.2.2.2.2.2.3.2.1.3.1.2.1.1.1.1.1.3, 1.2.2.2.2.2.3.2.1.3.1.2.1.1.1.1.1.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[611]] is shared by 3 nodes (1.2.2.2.2.2.3.2.2, 1.2.2.2.2.2.3.2.2.1, 1.2.2.2.2.2.3.2.2.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[651]] is shared by 5 nodes (1.2.2.2.2.2.3.2.3.2.1.1.5.1.1, 1.2.2.2.2.2.3.2.3.2.1.1.5.1.1.1, 1.2.2.2.2.2.3.2.3.2.1.1.5.1.1.2, 1.2.2.2.2.2.3.2.3.2.1.1.5.1.1.3, 1.2.2.2.2.2.3.2.3.2.1.1.5.1.1.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[674]] is shared by 9 nodes (1.2.2.2.2.2.4, 1.2.2.2.2.2.4.1, 1.2.2.2.2.2.4.2, 1.2.2.2.2.2.4.2.1, 1.2.2.2.2.2.4.2.1.1, 1.2.2.2.2.2.4.2.1.1.1, 1.2.2.2.2.2.4.2.1.1.2, 1.2.2.2.2.2.4.2.1.1.3, 1.2.2.2.2.2.4.2.1.1.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[680]] is shared by 5 nodes (1.2.2.2.2.2.4.2.1.1.4.1, 1.2.2.2.2.2.4.2.1.1.4.2, 1.2.2.2.2.2.4.2.1.1.4.3, 1.2.2.2.2.2.4.2.1.1.4.4, 1.2.2.2.2.2.4.2.1.1.4.5) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[697]] is shared by 3 nodes (1.2.2.2.2.2.4.2.1.2.3, 1.2.2.2.2.2.4.2.1.2.3.1, 1.2.2.2.2.2.4.2.1.2.3.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[722]] is shared by 4 nodes (1.2.2.2.2.2.4.2.1.2.3.2.3, 1.2.2.2.2.2.4.2.1.2.3.2.3.1, 1.2.2.2.2.2.4.2.1.2.3.2.3.1.1, 1.2.2.2.2.2.4.2.1.2.3.2.3.1.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[761]] is shared by 4 nodes (1.2.2.2.2.2.4.2.1.2.3.2.3.1.2, 1.2.2.2.2.2.4.2.1.2.3.2.3.1.3, 1.2.2.2.2.2.4.2.1.2.3.2.3.2, 1.2.2.2.2.2.4.2.1.2.3.2.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[765]] is shared by 3 nodes (1.2.2.2.2.2.4.2.2, 1.2.2.2.2.2.4.2.2.1, 1.2.2.2.2.2.4.2.2.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[794]] is shared by 5 nodes (1.2.2.2.2.2.4.2.2.2.5, 1.2.2.2.2.2.4.2.2.2.5.1, 1.2.2.2.2.2.4.2.2.2.5.1.1, 1.2.2.2.2.2.4.2.2.2.5.1.2, 1.2.2.2.2.2.4.2.2.2.5.1.2.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[819]] is shared by 4 nodes (1.2.2.2.2.2.4.2.2.2.5.1.2.3, 1.2.2.2.2.2.4.2.2.2.5.1.2.3.1, 1.2.2.2.2.2.4.2.2.2.5.1.2.3.2, 1.2.2.2.2.2.4.2.2.2.5.1.2.3.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[821]] is shared by 3 nodes (1.2.2.2.2.2.4.2.2.2.5.2, 1.2.2.2.2.2.4.2.2.2.5.2.1, 1.2.2.2.2.2.4.2.2.2.5.2.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[827]] is shared by 4 nodes (1.2.2.2.2.2.4.2.2.2.5.2.1.3, 1.2.2.2.2.2.4.2.2.2.5.2.1.3.1, 1.2.2.2.2.2.4.2.2.2.5.2.1.3.2, 1.2.2.2.2.2.4.2.2.2.5.2.1.3.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[838]] is shared by 4 nodes (1.2.2.2.2.2.4.2.2.2.5.2.2, 1.2.2.2.2.2.4.2.2.2.5.2.2.1, 1.2.2.2.2.2.4.2.2.2.5.2.2.2, 1.2.2.2.2.2.4.2.2.2.5.2.2.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[844]] is shared by 3 nodes (1.2.2.2.2.2.4.2.2.2.5.2.3, 1.2.2.2.2.2.4.2.2.2.5.2.3.1, 1.2.2.2.2.2.4.2.2.2.5.2.3.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[858]] is shared by 6 nodes (1.2.2.2.2.2.5.2, 1.2.2.2.2.2.5.2.1, 1.2.2.2.2.2.5.2.2, 1.2.2.2.2.2.5.2.2.1, 1.2.2.2.2.2.5.2.2.2, 1.2.2.2.2.2.5.2.2.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[868]] is shared by 6 nodes (1.2.2.2.2.2.5.2.3, 1.2.2.2.2.2.5.2.3.1, 1.2.2.2.2.2.5.2.3.2, 1.2.2.2.2.2.5.2.3.3, 1.2.2.2.2.2.5.2.3.4, 1.2.2.2.2.2.5.2.3.5) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[879]] is shared by 3 nodes (1.2.2.2.2.2.5.2.3.5.2, 1.2.2.2.2.2.5.2.3.5.2.1, 1.2.2.2.2.2.5.2.3.5.2.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[881]] is shared by 5 nodes (1.2.2.2.2.2.5.3, 1.2.2.2.2.2.5.3.1, 1.2.2.2.2.2.5.3.2, 1.2.2.2.2.2.5.3.2.1, 1.2.2.2.2.2.5.3.2.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[884]] is shared by 4 nodes (1.2.2.2.2.2.5.3.3, 1.2.2.2.2.2.5.3.3.1, 1.2.2.2.2.2.5.3.3.2, 1.2.2.2.2.2.5.3.3.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[890]] is shared by 3 nodes (1.2.2.2.2.2.5.3.4, 1.2.2.2.2.2.5.3.4.1, 1.2.2.2.2.2.5.3.4.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[894]] is shared by 3 nodes (1.2.2.2.2.2.5.3.4.2.1, 1.2.2.2.2.2.5.3.4.2.2, 1.2.2.2.2.2.5.3.4.2.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[912]] is shared by 3 nodes (1.2.2.2.2.2.5.5, 1.2.2.2.2.2.5.5.1, 1.2.2.2.2.2.5.5.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[916]] is shared by 4 nodes (1.2.2.2.2.2.5.6, 1.2.2.2.2.2.5.6.1, 1.2.2.2.2.2.5.6.1.1, 1.2.2.2.2.2.5.6.1.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[924]] is shared by 3 nodes (1.2.2.2.2.2.5.6.2, 1.2.2.2.2.2.5.6.2.1, 1.2.2.2.2.2.5.6.2.1.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[928]] is shared by 5 nodes (1.2.2.2.2.2.5.6.2.1.1.1, 1.2.2.2.2.2.5.6.2.1.1.2, 1.2.2.2.2.2.5.6.2.1.1.3, 1.2.2.2.2.2.5.6.2.1.1.3.1, 1.2.2.2.2.2.5.6.2.1.1.3.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[934]] is shared by 4 nodes (1.2.2.2.2.2.5.6.2.1.2, 1.2.2.2.2.2.5.6.2.1.3, 1.2.2.2.2.2.5.6.2.1.4, 1.2.2.2.2.2.5.6.2.1.5) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[946]] is shared by 5 nodes (1.2.2.2.2.2.5.9, 1.2.2.2.2.2.5.9.1, 1.2.2.2.2.2.5.9.1.1, 1.2.2.2.2.2.5.9.1.2, 1.2.2.2.2.2.5.9.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[981]] is shared by 4 nodes (1.2.2.2.2.2.6.2.1, 1.2.2.2.2.2.6.2.1.1, 1.2.2.2.2.2.6.2.1.2, 1.2.2.2.2.2.6.2.1.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[997]] is shared by 7 nodes (1.2.2.2.2.2.6.2.2.3, 1.2.2.2.2.2.6.3, 1.2.2.2.2.2.6.3.1, 1.2.2.2.2.2.6.3.1.1, 1.2.2.2.2.2.6.3.1.2, 1.2.2.2.2.2.6.3.1.3, 1.2.2.2.2.2.6.3.1.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[1032]] is shared by 3 nodes (1.2.2.2.2.2.6.4, 1.2.2.2.2.2.6.4.1, 1.2.2.2.2.2.6.4.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[1036]] is shared by 4 nodes (1.2.2.2.2.2.6.4.2.1, 1.2.2.2.2.2.6.4.2.1.1, 1.2.2.2.2.2.6.4.2.1.2, 1.2.2.2.2.2.6.4.2.1.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[1075]] is shared by 3 nodes (1.2.2.2.2.2.7.3, 1.2.2.2.2.2.7.4, 1.2.2.2.2.2.7.4.1) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[1076]] is shared by 4 nodes (1.2.2.2.2.2.7.4.1.1, 1.2.2.2.2.2.7.4.1.1.1, 1.2.2.2.2.2.7.4.1.1.2, 1.2.2.2.2.2.7.4.1.1.3) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[1122]] is shared by 4 nodes (1.2.2.2.2.2.8.1.1, 1.2.2.2.2.2.8.1.2, 1.2.2.2.2.2.8.1.3, 1.2.2.2.2.2.8.1.4) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[1177]] is shared by 6 nodes (1.2.2.2.2.2.8.2, 1.2.2.2.2.2.8.2.1, 1.2.2.2.2.2.8.2.2, 1.2.2.2.2.2.8.2.3, 1.2.2.2.2.2.8.2.4, 1.2.2.2.2.2.8.2.5) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- pointer [[1179]] is shared by 4 nodes (1.3, 1.3.1, 1.3.1.1, 1.3.1.2) — repeated-pointer collision, the extractor likely lost its cursor partway through this run
+- 1.2.2.2.2.2.2.1.6 'དྲུག་པ་དབང་པོའི་ལྡན་ཚུལ་': announcing text names a 19-way division but the tree gives it 2 child(ren) — verify by hand which is right
+- 1.2.2.2.2.2.2.1.6.2 'གཉིས་པ་སྲིད་ལྡན་': announcing text names a 19-way division but the tree gives it 2 child(ren) — verify by hand which is right
+- 1.2.2.2.2.2.4.2.1.2.3 'གསུམ་པ་རྣམ་པར་རིག་བྱེད་མ་ཡིན་པ': announcing text names a 3-way division but the tree gives it 2 child(ren) — verify by hand which is right
+- 1.2.2.2.2.2.4.2.1.2.3.2 'གཉིས་པ་རྒྱས་པར་བཤད་པ': announcing text names a 3-way division but the tree gives it 4 child(ren) — verify by hand which is right
+
+## Notes (not counted as issues)
+
+- (none)

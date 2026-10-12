@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9feb03db49202b31",
+        "id": "94230f64a6c6ed47",
         "type": "tabs",
         "children": [
           {
-            "id": "57e678dbca693b7e",
+            "id": "87863a6070f17829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/TOCs/ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",
+                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།"
-            }
-          },
-          {
-            "id": "9b5ac87b2473e3fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།"
+              "title": "ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5037612915039
+    "width": 264.17044830322266
   },
   "right": {
     "id": "08fb4a0a47ab3b49",
@@ -212,43 +197,42 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "9b5ac87b2473e3fb",
+  "active": "87863a6070f17829",
   "lastOpenFiles": [
+    "0-INBOX/TOCs/མངོན་པ་མཛོད་ཀྱི་འགྲེལ་པ་ཆོས་མངོན་རྒྱ་མཚོའི་སྙིང་པོ།.toc-tree.md",
     "conflict-files-obsidian-git.md",
-    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",
-    "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་མཆན་འགྲེལ་དབྱིག་གཉེན་དགོངས་པ་གསལ་བའི་སྒྲོན་མེ།.md",
+    "0-INBOX/TOCs/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.toc-tree.md",
+    "0-INBOX/TOCs/Qr5HG0fQ",
+    "0-INBOX/TOCs/ཆོས་མངོན་པའི་མཛོད་ཀྱི་མཆན་འགྲེལ་དབྱིག་གཉེན་དགོངས་པ་གསལ་བའི་སྒྲོན་མེ།.toc-tree.md",
+    "0-INBOX/TOCs/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.toc-tree.md",
+    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
     "1-SOURCES/Commentaries/མངོན་པ་མཛོད་ཀྱི་འགྲེལ་པ་ཆོས་མངོན་རྒྱ་མཚོའི་སྙིང་པོ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",
-    "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་འགྲེལ་བཤད་ཉེ་བར་མཁོ་བ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ།.md",
-    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
     "0-INBOX/TOCs/ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",
-    "0-INBOX/TOCs/_qc/toc-tree-qc-nor-bu-bang-mdzod.md",
-    "0-INBOX/TOCs/_qc/toc-tree-qc-source-nor-bu-bang-mdzod.md",
-    "0-INBOX/TOCs/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.toc-tree.md",
-    "0-INBOX/TOCs/_qc/toc-tree-qc-source-nyi-ma.md",
-    "0-INBOX/TOCs/_qc/toc-tree-qc-nyi-ma.md",
-    "0-INBOX/ཆོས་མངོན་པའི་མཛོད་ཀྱི་བཤད་པ། སྨད་ཆ།.stage2.md",
-    "0-INBOX/temp/toc-tree-qc-source-nor-bu-bang-mdzod.md",
-    "0-INBOX/temp/toc-tree-qc-nor-bu-bang-mdzod.md",
-    "0-INBOX/temp/toc-tree-nor-bu-bang-mdzod.md",
-    "0-INBOX/temp/toc-enumerations-nor-bu-bang-mdzod.md",
-    "0-INBOX/temp/toc-candidates-nor-bu-bang-mdzod.md",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/enumerations/chunk_026.md",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/enumerations/chunk_029.md",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/enumerations/chunk_024.md",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/enumerations/chunk_025.md",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/enumerations/chunk_023.md",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/enumerations/chunk_008.md.tmp.24528.a49ed30f88c7",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/candidates/chunk_008.md.tmp.24528.8eb92b7deaff",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/candidates/chunk_025.md.tmp.24528.418fe97cb138",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/candidates/chunk_030.md.tmp.24528.ebfcdb0d7e01",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/candidates/chunk_004.md.tmp.24528.420c736b594b",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/candidates/chunk_009.md.tmp.24528.cd93ad5b5cab",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/candidates/chunk_011.md.tmp.24528.f722fcddc56e",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/candidates/chunk_014.md.tmp.24528.444e0c30e65e",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/candidates/chunk_018.md.tmp.24528.e6ca446ee5f7",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/chunk-index.tsv"
+    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་ཊཱིཀྐ་རྒྱལ་བ་སྲས་བཅས་འཕཌ་ཚོགས་ཐམས་ཅད་ཀྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ཉི་མ།.md",
+    "1-SOURCES/Commentaries/ཆོས་མངོན་པའི་མཛོད་ཀྱི་མཆན་འགྲེལ་དབྱིག་གཉེན་དགོངས་པ་གསལ་བའི་སྒྲོན་མེ།.md",
+    "1-SOURCES/Commentaries/མཛོད་ཀྱི་འགྲེལ་པ་ཐུབ་བསྟན་ནོར་བུའི་གཏེར་མཛོད་དུས་གསུམ་རྒྱལ་བའི་བཞེད་དོན་ཀུན་གསལ།.md",
+    "0-INBOX/TOCs/_qc/toc-tree-qc-rgya-mtsho-snying-po.md",
+    "0-INBOX/temp/toc-tree-qc-rgya-mtsho-snying-po.md",
+    "0-INBOX/temp/toc-tree-rgya-mtsho-snying-po.md",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enum-compact.txt",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/cand-compact.txt",
+    "0-INBOX/temp/toc-enumerations-rgya-mtsho-snying-po.md",
+    "0-INBOX/temp/toc-candidates-rgya-mtsho-snying-po.md",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enumerations/chunk_032.md",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/candidates/chunk_031.md",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enumerations/chunk_033.md",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enumerations/chunk_034.md",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enumerations/chunk_031.md",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enumerations/chunk_030.md",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enumerations/chunk_028.md.tmp.24584.57475fb23d17",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enumerations/chunk_025.md.tmp.24584.be3b8bb95b70",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enumerations/chunk_027.md.tmp.24584.ec74ffcd10ab",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enumerations/chunk_019.md.tmp.24584.bb7a34d1ccbb",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/candidates/chunk_034.md.tmp.24584.41a3fd5c6b6b",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/enumerations/chunk_005.md.tmp.24584.b338b61a42fc",
+    "0-INBOX/temp/TOC-rgya-mtsho-snying-po/candidates/chunk_006.md.tmp.24584.399ef775187d"
   ]
 }

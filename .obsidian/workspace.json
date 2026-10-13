@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
+                "file": "0-INBOX/TOCs/ཆོས་མངོན་པ་གསལ་བར་བྱེད་པའི་ཉི་མ། དཀར་ཆག.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།"
+              "title": "ཆོས་མངོན་པ་གསལ་བར་བྱེད་པའི་ཉི་མ། དཀར་ཆག"
             }
           }
         ]
@@ -199,13 +199,13 @@
   },
   "active": "87863a6070f17829",
   "lastOpenFiles": [
+    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
     "0-INBOX/TOCs/ཆོས་མངོན་པ་མངོན་པའི་རྒྱན། དཀར་ཆག.md",
     "0-INBOX/temp/TOC-mngon-rgyan/pre-toc-ingest-backup.md",
     "0-INBOX/temp/TOC-mngon-rgyan/toc-tree-remapped.md",
     "0-INBOX/temp/TOC-mngon-rgyan/candidate.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ།.md",
-    "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
     "0-INBOX/temp/toc-tree-qc-noptr.md",
     "0-INBOX/temp/toc-tree-nor-bu-bang-mdzod.noptr.md",
     "0-INBOX/temp/TOC-nor-bu-bang-mdzod/stale-prior-run/enumerations/chunk_030.md",

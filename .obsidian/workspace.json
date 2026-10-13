@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-INBOX/TOCs/ཆོས་མངོན་པ་མངོན་པའི་རྒྱན། དཀར་ཆག.md",
+                "file": "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ཆོས་མངོན་པ་མངོན་པའི་རྒྱན། དཀར་ཆག"
+              "title": "ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།"
             }
           }
         ]
@@ -197,8 +197,10 @@
       "gemini-scribe:Gemini Scribe: Agent Mode": false
     }
   },
-  "active": "eb2538ea3fa47051",
+  "active": "87863a6070f17829",
   "lastOpenFiles": [
+    "0-INBOX/TOCs/ཆོས་མངོན་པ་མངོན་པའི་རྒྱན། དཀར་ཆག.md",
+    "0-INBOX/temp/TOC-mngon-rgyan/pre-toc-ingest-backup.md",
     "0-INBOX/temp/TOC-mngon-rgyan/toc-tree-remapped.md",
     "0-INBOX/temp/TOC-mngon-rgyan/candidate.md",
     "1-SOURCES/Commentaries/ཆོས་མངོན་མཛོད་ཀྱི་ཚིག་ལེའུར་བྱས་པའི་འགྲེལ་པ་མངོན་པའི་རྒྱན།.md",
@@ -223,8 +225,6 @@
     "0-INBOX/temp/TOC-nor-bu-bang-mdzod/stale-prior-run/enumerations/chunk_023.md",
     "0-INBOX/temp/TOC-nor-bu-bang-mdzod/stale-prior-run/candidates/chunk_023.md",
     "0-INBOX/temp/TOC-nor-bu-bang-mdzod/stale-prior-run/enumerations/chunk_022.md",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/stale-prior-run/candidates/chunk_022.md",
-    "0-INBOX/temp/TOC-nor-bu-bang-mdzod/stale-prior-run/enumerations/chunk_021.md",
     "0-INBOX/temp/TOC-nor-bu-bang-mdzod/stale-prior-run/enumerations",
     "0-INBOX/temp/TOC-nor-bu-bang-mdzod/stale-prior-run/candidates",
     "0-INBOX/temp/TOC-nor-bu-bang-mdzod/stale-prior-run",

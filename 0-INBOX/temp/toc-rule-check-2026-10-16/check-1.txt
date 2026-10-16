@@ -1,0 +1,3 @@
+## ཆོས་མངོན་པ་མཛོད།.md
+headings 14, max depth 3, uniform sibling groups with/without ordinals 1/1
+ISSUES: 0

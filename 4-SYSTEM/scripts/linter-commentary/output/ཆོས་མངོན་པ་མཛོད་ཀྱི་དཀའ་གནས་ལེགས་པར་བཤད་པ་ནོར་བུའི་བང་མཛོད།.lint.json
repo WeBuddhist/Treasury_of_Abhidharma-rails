@@ -1,0 +1,35 @@
+{
+  "status": "ok",
+  "source": "1-SOURCES/Commentaries/ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།.md",
+  "validated_at": "2026-10-16T12:50:44.751497+00:00",
+  "notes": [
+    "bdrc_work_id: not set (optional)",
+    "wiki: not set (optional)",
+    "translation_of: not set (optional)",
+    "commentary_of: 'OkZN3zxjraovr2PmeWnXX'",
+    "root_text: '1-SOURCES/Text/ཆོས་མངོན་པ་མཛོད།.md'",
+    "tag_ids: not set (optional)",
+    "source: source = 'https://webuddhist.com/'",
+    "toc: 434 headers found"
+  ],
+  "warnings": [
+    "contributions: author/translator missing — ignored for now",
+    "alt_titles: missing — ignored for now"
+  ],
+  "text_input": {
+    "bdrc": null,
+    "wiki": null,
+    "date": "མེ་ཕོ་སྟག་ལོ — the year the text itself calls ད་ལོ ('this year') in its reckoning of the doctrine's duration",
+    "title": {
+      "bo": "ཆོས་མངོན་པ་མཛོད་ཀྱི་དཀའ་གནས་ལེགས་པར་བཤད་པ་ནོར་བུའི་བང་མཛོད།"
+    },
+    "alt_titles": null,
+    "language": "bo",
+    "commentary_of": "OkZN3zxjraovr2PmeWnXX",
+    "translation_of": null,
+    "category_id": "MZUUxphQ0yFwLBon3Vng8",
+    "license": "public",
+    "contributions": null,
+    "tag_ids": null
+  }
+}

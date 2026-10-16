@@ -1,0 +1,40 @@
+id	block	anchor	confidence	note
+1-0	1-1	དེའང་རང་རེའི་སྟོན་པ་བླ་ན་མེད་པ་ཡང་དག་པར	high	Block 1-1 is the lead-in to the whole explanation; it ends by announcing the two parts (1-1-0, 1-2-0).
+1-1-0	1-2	དང་པོ་ནི། ཁོ་བོ་ཅག་བསྐལ་པ་དཔག་ཏུ་མེད་པའི	high	
+1-2-0	1-5	གཉིས་པ་ལ། མཚན་ངོས་བཟུང་ཞིང་བསྒྱུར་བ།	high	
+1-2-1-0	1-5	དང་པོ་ནི། རྒྱ་གར་སྐད་དུ། ཨ་བྷི་དྷརྨ	high	Parent 1-2-0 announcement immediately precedes.
+1-2-2-0	1-5	གཉིས་པ་ནི། འཇམ་དཔལ་གཞོན་ནུར་གྱུར་པ་ལ	high	
+1-2-3-0	1-6	གསུམ་པ་ལ། མཆོད་པར་བརྗོད་ཅིང་བཤད་པར་དམ་བཅའ་བ།	high	
+1-2-3-1-0	1-6	དང་པོ་ནི།	high	Opener is the last words of block 1-6 (root verse follows in 1-7); only 3 syllables exist, unique in block.
+1-2-3-1-1-0	1-11	འདིར་འཕྲོས་དོན་ཅུང་ཟད་བརྗོད་ན།	high	Blocks 1-8 to 1-10 still explain the homage verse (parent 1-2-3-1-0).
+1-2-3-1-1-1-0	1-11	དང་པོ་ནི། འདིར་སྟོན་པར་གྱུར་པ་ནི	high	
+1-2-3-1-1-2-0	1-13	གཉིས་པ་ནི། འདི་སྐབས་ཀྱི་མུན་པ་ནི	high	
+1-2-3-1-1-2-1-0	1-13	དང་པོ་ནི་སྲིད་པའི་རྩ་བར་གྱུར་པའི་ཕྲ་རྒྱས	high	
+1-2-3-1-1-2-2-0	1-14	གཉིས་པ་ནི་གཙོ་བོར་ཐམས་ཅད་མཁྱེན་པའི	high	
+1-2-3-1-1-2-3-0	1-15	འདིར་ཐེག་ཆེན་ནས་བཤད་པའི་ཤེས་སྒྲིབ	medium	Not announced in the two-item enumeration; starts at the thesis that the term shes-sgrib must be accepted, which then announces lung and rigs-pa. Preceding debate (from 'o na 'dir bstan gyi mun pa in 1-14) stays with 1-2-3-1-1-2-2-0.
+1-2-3-1-1-2-3-1-0	1-15	དང་པོ་ནི། ལྷན་ཅིག་གཉིས་མིན་སངས་རྒྱས་བཞིན།	high	
+1-2-3-1-1-2-3-2-0	1-16	གཉིས་པ་ནི། རིགས་པ་དང་རྒྱུན་རྫས་གྲུབ་ཏུ	high	
+1-2-3-1-1-3-0	1-17	གསུམ་པ་གཉེན་པོ་ལ་དཔྱད་པ་ནི།	high	
+1-2-3-2-0	1-17	གཉིས་པ་བསྟན་བཅོས་ཀྱི་མཚན་དོན་བཤད་པ་ནི།	high	Block-final opener; root verse follows in 1-18.
+1-2-3-3-0	1-20	གསུམ་པ་དགོས་ཆེད་བསྟན་པ་ནི།	high	Block-final opener; root verse follows in 1-21.
+1-2-3-3-1-0	1-22	ཆོས་མངོན་པའི་བརྗོད་བྱ་ནི་ཆོས་རྣམས་ཞེས	medium	No enumeration announces the four; the 1-22 explanation treats them as title+ni clauses (brjod bya ni / dgos pa ni / nying dgos ni). 'zhes pas bstan' before it closes the verse quote and stays with parent.
+1-2-3-3-2-0	1-22	དགོས་པ་ནི་ཆོས་རབ་ཏུ་རྣམ་འབྱེད་ཀྱི་ཤེས་རབ་དེ	medium	Title+ni clause in 1-22; see 1-2-3-3-1-0.
+1-2-3-3-3-0	1-22	ཉིང་དགོས་ནི་གཞུང་དུ་ཟློག་པར་བསྟན	medium	Title+ni clause in 1-22; runs to end of block.
+1-2-3-3-4-0	1-23	དེའང་བརྗོད་བྱ་དགོས་པ་ཉིང་དགོས་འབྲེལ་བ་བཞི་ལས།	medium	Relation ('brel ba) is never treated in 1-22; first treated in 1-23, which recaps all four and adds the relation (bzhi pa ni phyi ma phyi ma...). Alternative: mid-block at 'bzhi pa ni phyi ma', but that cuts a dang-list.
+1-2-3-4-0	1-25	བཞི་པ་བསྟན་བཅོས་ཀྱི་ལུས་དངོས་བཤད་པ་ལ་གཉིས་ཏེ།	high	
+1-2-3-4-1-0	1-25	དང་པོ་ལ། བསྟན་པ་དང༌། བཤད་པའོ།	high	
+1-2-3-4-1-1-0	1-25	དང་པོ་ནི། ཟག་བཅས་ཟག་པ་མེད་ཆོས་རྣམས།	high	Continues through 1-26 and start of 1-27.
+1-2-3-4-1-2-0	1-27	གཉིས་པ་ལ། ཟག་བཅས་རྒྱས་བཤད་དང༌།	high	
+1-2-3-4-1-2-1-0	1-27	དང་པོ་ནི།	high	Block-final opener (root verse follows in 1-28); only 3 syllables exist, unique in block.
+1-2-3-4-1-2-2-0	1-30	གཉིས་པ་ལ། མདོར་བསྟན་པ་དང༌།	high	
+1-2-3-4-1-2-2-1-0	1-30	དང་པོ་ནི།	high	Block-final opener (root verse follows in 1-31); only 3 syllables exist, unique in block.
+1-2-3-4-1-2-2-2-0	1-33	གཉིས་པ་ལ་གསུམ། ནམ་མཁའ། བརྟགས་འགོག	high	
+1-2-3-4-1-2-2-2-1-0	1-33	དང་པོ་ནི། དེ་ལ་ནམ་མཁའ་མི་སྒྲིབ་པའོ།	high	
+1-2-3-4-1-2-2-2-2-0	1-34	གཉིས་པ་ནི། སོ་སོར་བརྟགས་པས་འགོག་པ་གང༌།	high	
+1-2-3-4-1-2-2-2-3-0	1-34	གསུམ་པ་ནི། སྐྱེ་ལ་གཏན་དུ་གེགས་བྱེད་པ།	high	Continues into start of 1-35 (sgra don).
+1-2-3-4-2-0	1-35	གཉིས་པ་ཡན་ལག་རྒྱས་པར་བཤད་པ་ལ།	high	
+1-2-3-4-2-1-0	1-35	དང་པོ་ལ་གྲངས་ངེས་པ་དང༌། གོ་རིམ་ངེས་པ་དང༌།	high	
+1-2-3-4-2-1-1-0	1-35	དང་པོ་ནི། ཟག་བཅས་ཟག་མེད་ཀྱི་རྣམ་གཞག་སྤྱིར	high	Continues into start of 1-36.
+1-2-3-4-2-1-2-0	1-36	གཉིས་པ་གོ་རིམ་ངེས་པ་ལ། སྤྱིའི་གོ་རིམ་གྱི	high	Runs through 1-40 (up to the ninth chapter remark).
+1-2-3-4-2-1-3-0	1-40	གསུམ་པ་གནས་གང་ནས་བརྗོད་བྱ་གང་སྟོན་པ་ནི།	high	
+1-2-3-4-2-2-0	1-40	གཉིས་པ་གནས་སོ་སོའི་དོན་བསྟན་པ་ལ།	high	

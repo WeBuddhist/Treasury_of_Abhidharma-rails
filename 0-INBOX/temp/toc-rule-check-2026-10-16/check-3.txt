@@ -1,0 +1,5 @@
+## ཆོས་མངོན་པ་མཛོད་ཀྱི་འགྲེལ་བཤད་མཚན་ཉིད་ཀྱི་རྗེས་སུ་འབྲང་བ།.md
+headings 10, max depth 2, uniform sibling groups with/without ordinals 0/0
+ISSUES: 1
+### A.5 mixed sibling ordinals (1)
+  - under root: 8/9 with ordinal → ADD to the rest; affects: L483 ^9-0 གང་ཟག་གཏན་ལ་འབེབས་པ།

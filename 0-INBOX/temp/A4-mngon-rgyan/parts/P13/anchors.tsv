@@ -1,0 +1,15 @@
+id	block	anchor	confidence	note
+2-2-3-2-5-2-0	2-1351	གཉིས་པ་ཕྲ་རྒྱས་ཇི་ལྟར་སྤོང་ཚུལ་ལ་དངོས་དང་།	high	
+2-2-3-2-5-2-1-0	2-1351	དང་པོ་ནི་སྤྱིར་སྤང་བྱ་སྤོང་ཚུལ་ལ་བཞི་ལས་	high	
+2-2-3-2-5-2-1-1-0	2-1351	དང་པོ་ནི་མཐོང་སྤང་བརྒྱད་ཅུ་རྩ་བརྒྱད་ལས་	high	follows sub-announcement of the three modes for mthong spang
+2-2-3-2-5-2-1-2-0	2-1352	གཉིས་པ་ནི་དེ་དག་ལས་དགུ་གོང་དུ་དམིགས་	high	
+2-2-3-2-5-2-1-3-0	2-1353	གསུམ་པ་ནི་ཁམས་གསུམ་གྱི་འགོག་ལམ་མཐོང་སྤང་	high	runs through 2-1354 and the summary sentence opening 2-1355
+2-2-3-2-5-2-1-4-0	2-1355	སྤོང་ཚུལ་བཞི་པ་སྒོམ་སྤང་རྣམས་ནི་	high	
+2-2-3-2-5-2-1-4-1-0	2-1355	སྤོང་ཚུལ་བཞི་པ་སྒོམ་སྤང་རྣམས་ནི་	medium	no separate opener; parent's first clause already gives this mode (own antidote arising), so same anchor as parent
+2-2-3-2-5-2-1-4-2-0	NONE	NONE	NONE	never opened separately; matter only in the summary clause of 2-1356 (rang rgyud kyi sgom spang ... yul can zad pas spong ba)
+2-2-3-2-5-2-2-0	2-1356	གཉིས་པ་ནི་འོ་ན་གཉེན་པོ་ཉིད་དུ་ཡོད་ཅེ་ན།	high	
+2-2-3-2-5-2-2-1-0	2-1356	དེ་ལ་དང་པོ་ནི་གང་གིས་ཉོན་མོངས་པའི་ཐོབ་པ་	high	
+2-2-3-2-5-2-2-2-0	2-1356	གཉིས་པ་ནི་བར་ཆད་མེད་པའི་ལམ་གྱིས་སྤངས་པའི་	high	
+2-2-3-2-5-2-2-3-0	2-1356	གསུམ་པ་ནི་རྣམ་གྲོལ་གྱི་ལམ་དང་པོ་	high	
+2-2-3-2-5-2-2-4-0	2-1356	བཞི་པ་ནི་བདེན་པ་དང་པོ་གཉིས་ལ་དམིགས་པའི་	high	continues through 2-1360 (Vasubandhu's order, distance types)
+2-2-3-2-5-3-0	2-1361	གསུམ་པ་སྤངས་པའི་འབྲས་བུ་ཡོངས་ཤེས་བཤད་པ་ནི་	high	

@@ -115,8 +115,46 @@ Adds block IDs so every verse, prose block and heading can be cited and transclu
 → [`add-block-ids/SKILL.md`](add-block-ids/SKILL.md)
 
 ### `transclusion`
-Inserts root-verse transclusion links into a commentary or a second version of the root text, placing each one where the verse becomes relevant.
+Inserts root-verse transclusion links into a commentary or a second version of the root text, placing each one where the verse becomes relevant. Mode 5 places them for `parser-commentary` alignment: repeated right after every heading of the verse's sub-tree.
 → [`transclusion/SKILL.md`](transclusion/SKILL.md)
+
+---
+
+## 4a. Commentary segmentation and TOC workflow
+
+One skill per step and one pipeline skill that runs the whole workflow. Installed 2026-10-14 from `Nalanda-texts-rails/4-SYSTEM/Skills/`. Shared scripts and TOC prompts: `4-SYSTEM/Skills/seg-toc-lib/`.
+
+### `commentary-pipeline`
+**Runs the whole commentary workflow** on one commentary: pre-clean → segment into functional units → TOC tree (mode `sabcad` / `verses` / `top` / `labels`) → TOC ingest → meaning-based re-segmentation + QC → body block IDs, with the checks between steps.
+→ [`commentary-pipeline/SKILL.md`](commentary-pipeline/SKILL.md)
+
+### `commentary-preclean`
+Step 1 (optional) — strip earlier scaffolding (index numbers, IDs, heading markers, per-line breaks) back to continuous prose; footnotes kept. Deterministic.
+→ [`commentary-preclean/SKILL.md`](commentary-preclean/SKILL.md)
+
+### `commentary-segment`
+Step 2 — deterministic segmentation; `--units --root <root text>` gives the human layout (opener / quoted root verse / whole explanation / frame). Source spacing preserved; no-loss assertion.
+→ [`commentary-segment/SKILL.md`](commentary-segment/SKILL.md)
+
+### `commentary-toc-extract`
+Step 3 — full nested decimal sa bcad tree in isolated passes (candidates → verbatim enumerations → tree → QC repair → anchors with frame nodes → QC against the text), published to `2-RAILS/Sections/Raw/toc-tree/<registered-id>.md`. Gemini pipeline by default, Claude subagents on request.
+→ [`commentary-toc-extract/SKILL.md`](commentary-toc-extract/SKILL.md)
+
+### `commentary-toc-ingest`
+Step 4 — anchored tree into the segmented commentary as headings with block IDs (stacked parent/first-child headings, frame headings, a block cut where a non-first-child section starts mid-block); text verified unchanged. Deterministic.
+→ [`commentary-toc-ingest/SKILL.md`](commentary-toc-ingest/SKILL.md)
+
+### `commentary-resegment`
+Step 5 — meaning-based merge/split of blocks after the headings are in; the model flags operations per window, a script applies them and verifies integrity; QC pass. Gemini by default, Claude on request.
+→ [`commentary-resegment/SKILL.md`](commentary-resegment/SKILL.md)
+
+### `commentary-block-ids`
+Step 6 — derived body block IDs (`^N-n` by top-level section, frame from its own label), after the `##` labels are confirmed; strict text gate. Deterministic.
+→ [`commentary-block-ids/SKILL.md`](commentary-block-ids/SKILL.md)
+
+### `seg-toc-lib`
+Support library, not run on its own: tree ingest, chunking, the two tree checkers, the Gemini TOC pipeline, the strict text gate `verify_text.py`. Its `SKILL.md` holds the model rule (Gemini API by default, agents only when asked).
+→ [`seg-toc-lib/SKILL.md`](seg-toc-lib/SKILL.md)
 
 ---
 
